@@ -1,0 +1,3 @@
+# Programming-101
+Basic knowledge for a good programmer
+Algorithms, Data Structures, Design Patterns...
